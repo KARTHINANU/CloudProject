@@ -1,5 +1,5 @@
 
-var API_ENDPOINT = "https://genl8baqmh.execute-api.us-east-1.amazonaws.com/prod";
+var API_ENDPOINT = "https://v02n0c1x46.execute-api.eu-north-1.amazonaws.com/prod";
 
 
 const WEATHER_API_KEY = "6eca9a26a0eeb81bcbf065dd7f8b12e1";
