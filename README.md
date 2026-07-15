@@ -432,11 +432,9 @@ Access the application using the CloudFront URL.
 
 ---
 
-# 👨‍💻 Team Members
+# 👨‍💻 Author
 
 - **C. Karthikeya (23BIT0065)**
-- **MVS Lalith (23BIT0423)**
-- **A. Vishvesh (23BIT0001)**
 
 **Guide:** Dr. Mohanraj Gopal
 
